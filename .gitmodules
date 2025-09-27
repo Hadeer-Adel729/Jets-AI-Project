@@ -1,0 +1,3 @@
+[submodule "CV-Checker-Backend"]
+	path = CV-Checker-Backend
+	url = https://github.com/Hadeer-Adel729/CV-Checker-Backend.git
