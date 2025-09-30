@@ -1,4 +1,4 @@
-# 📄 ResumeRadar
+# 📄 CV Reader
 
 ResumeRadar is an AI-powered CV analysis tool that helps users upload their CVs and instantly receive an analysis of their "strengths, weaknesses, recommendations, and a match score" compared to job requirements.
 
