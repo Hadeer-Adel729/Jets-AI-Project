@@ -4,3 +4,6 @@
 [submodule "CV-Checker-Android"]
 	path = CV-Checker-Android
 	url = https://github.com/mayar1711/ResumeRadar
+[submodule "CV-Checker-Web-Frontend"]
+	path = CV-Checker-Web-Frontend
+	url = https://github.com/Hadeer-Adel729/CV-Checker-Web-Frontend.git
